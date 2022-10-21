@@ -1,0 +1,3 @@
+- Hi, I’m IngotGames
+- I’m interested in programming in Python
+- Thanks for reading! ☺
